@@ -10,7 +10,7 @@ from setuptools.command.bdist_egg import bdist_egg as base_bdist_egg
 from wagtailextraicons import __version__
 
 
-url = 'https://github.com/octavenz/wagtailextraicons'
+url = 'https://github.com/rivz-a/wagtailextraicons'
 icon_src_dir = 'lib/icons'
 
 
